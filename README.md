@@ -3,7 +3,7 @@ Customer personality analysis helps a business to modify its product based on it
 
 Methodology
 
-Jupyter environment (Jupyter Lab or Jupyter notebook) – for experimenting our project.
+Jupyter environment (Jupyter Lab or Jupyter notebook)
 Pandas – For loading data as a dataframe and wrangling the data.
 Numpy and Scipy for performing some basic mathematical computation.
 Scikit-Learn – For building our Customer Segmentation Model.
