@@ -6,6 +6,6 @@ Methodology
 Jupyter environment (Jupyter Lab or Jupyter notebook)
 Pandas – For loading data as a dataframe and wrangling the data.
 Numpy and Scipy for performing some basic mathematical computation.
-Scikit-Learn – For building our Customer Segmentation Model.
+Scikit-Learn – For building Customer Segmentation Model.
 Seaborn, Matplotlib and Plotly Express – for data visualization.
 KneeLocator
